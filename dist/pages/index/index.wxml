@@ -1,0 +1,5 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index">
+        <todo-list></todo-list>
+    </view>
+</block>

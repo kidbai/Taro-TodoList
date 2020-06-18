@@ -1,0 +1,3 @@
+.addTodo {
+  display: flex;
+  flex-direction: row; }

@@ -1,0 +1,6 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="addTodo">
+        <input value="{{todoTask}}" type="text" placeholder="输入todo" bindinput="handleChange" />
+        <button size="mini" type="default">add</button>
+    </view>
+</block>

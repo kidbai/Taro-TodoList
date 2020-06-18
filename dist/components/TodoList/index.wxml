@@ -1,0 +1,6 @@
+<block wx:if="{{$taroCompReady}}">
+    <view>
+        <view wx:for="{{list}}" wx:for-item="item" wx:for-index="_anonIdx2"><text>{{item}}</text>
+        </view>
+    </view>
+</block>

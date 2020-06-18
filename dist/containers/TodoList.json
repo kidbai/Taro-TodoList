@@ -1,0 +1,1 @@
+{"component":true,"usingComponents":{"add-todo-list":"../components/AddTodoList/index","todo-list":"../components/TodoList/index"}}
